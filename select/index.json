@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "SHAKE！SHAKE！SHAKE！",
+  "base_artist": "内田雄馬",
+  "createdAt": "2026-03-15T22:18:47.910046Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shake Shake Shake",
+      "artist": "Majid Jordan",
+      "has_synced": true,
+      "path": "select/01_Shake_Shake_Shake_Majid_Jordan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SHAKE!SHAKE!SHAKE!",
+      "artist": "内田雄馬",
+      "has_synced": true,
+      "path": "select/02_SHAKE!SHAKE!SHAKE!_内田雄馬.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "(Shake Shake Shake) Shake Your Booty",
+      "artist": "KC&ザ・サンシャイン・バンド",
+      "has_synced": true,
+      "path": "select/03_(Shake_Shake_Shake)_Shake_Your_Booty_KC&ザ・サンシャイン・バンド.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "(Shake, Shake, Shake) Shake Your Booty",
+      "artist": "KC and the Sunshine Band",
+      "has_synced": true,
+      "path": "select/04_(Shake,_Shake,_Shake)_Shake_Your_Booty_KC_and_the_Sunshine_Band.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shake Shake Shake",
+      "artist": "White Denim",
+      "has_synced": true,
+      "path": "select/05_Shake_Shake_Shake_White_Denim.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "(Shake, Shake, Shake) Shake Your Booty",
+      "artist": "KC and the Sunshine Band",
+      "has_synced": true,
+      "path": "select/06_(Shake,_Shake,_Shake)_Shake_Your_Booty_KC_and_the_Sunshine_Band.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shake Shake Shake",
+      "artist": "Shaggy",
+      "has_synced": true,
+      "path": "select/07_Shake_Shake_Shake_Shaggy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "(Shake, Shake, Shake) Shake Your Booty",
+      "artist": "KC and the Sunshine Band",
+      "has_synced": true,
+      "path": "select/08_(Shake,_Shake,_Shake)_Shake_Your_Booty_KC_and_the_Sunshine_Band.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shake Your Booty (Shake, Shake, Shake)",
+      "artist": "Kc And The Sunshine Band",
+      "has_synced": true,
+      "path": "select/09_Shake_Your_Booty_(Shake,_Shake,_Shake)_Kc_And_The_Sunshine_Band.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shake! Shake! Shake!",
+      "artist": "Jackie Wilson",
+      "has_synced": false,
+      "path": "select/10_Shake!_Shake!_Shake!_Jackie_Wilson.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "(Shake Shake Shake) Shake Your Booty",
+      "artist": "KC And The Sunshine Band",
+      "has_synced": true,
+      "path": "select/11_(Shake_Shake_Shake)_Shake_Your_Booty_KC_And_The_Sunshine_Band.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "(Shake Shake Shake) Shake Your Booty",
+      "artist": "KC & The Sunshine Band",
+      "has_synced": true,
+      "path": "select/12_(Shake_Shake_Shake)_Shake_Your_Booty_KC_&_The_Sunshine_Band.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "(Shake, Shake, Shake) Shake Your Body",
+      "artist": "KC and The Sunshine Band",
+      "has_synced": true,
+      "path": "select/13_(Shake,_Shake,_Shake)_Shake_Your_Body_KC_and_The_Sunshine_Band.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "(Shake, Shake, Shake) Shake Your Booty",
+      "artist": "K.c. And The Sunshine Band",
+      "has_synced": true,
+      "path": "select/14_(Shake,_Shake,_Shake)_Shake_Your_Booty_K.c._And_The_Sunshine_Band.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "(Shake, Shake, Shake) Shake Your Booty",
+      "artist": "KC & The Sunshine Band",
+      "has_synced": true,
+      "path": "select/15_(Shake,_Shake,_Shake)_Shake_Your_Booty_KC_&_The_Sunshine_Band.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "(Shake, Shake, Shake) Shake Your Booty",
+      "artist": "KC & The Sunshine Band",
+      "has_synced": true,
+      "path": "select/16_(Shake,_Shake,_Shake)_Shake_Your_Booty_KC_&_The_Sunshine_Band.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SHAKE!SHAKE!SHAKE!",
+      "artist": "内田雄馬",
+      "has_synced": false,
+      "path": "select/pl_01_SHAKE!SHAKE!SHAKE!_内田雄馬.txt"
+    }
+  ]
+}
